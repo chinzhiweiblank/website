@@ -68,21 +68,20 @@ content:
         quote: >
           Test
         description: | # this will include new lines to allow paragraphs
-          Under both the Linux Foundation and Cloud Native Computing Foundation, I made open source contributions to CoreDNS in
-          the form of a plugin that performed the ACME protocol.
+          Under both the Linux Foundation and Cloud Native Computing Foundation, I made open source contributions to CoreDNS in the form of a plugin that performed the ACME protocol.
 
-  #- title: Experience # Title for the section
-  #  layout: list # Type of content section (list/text)
-  #  content:
-  #    - layout: left
-  #      title: Test
-  #      link: test
-  #      sub_title: test
-  #      caption: November 2017 - Present
-  #      quote: >
-  #        test
-  #      description: | # this will include new lines to allow paragraphs
-  #          test
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Test
+        link: test
+        sub_title: test
+        caption: November 2017 - Present
+        quote: >
+          test
+        description: | # this will include new lines to allow paragraphs
+            test
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
