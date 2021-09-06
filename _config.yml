@@ -65,10 +65,11 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          Test
+        # quote: >
+        #  Test
         description: | # this will include new lines to allow paragraphs
-          Test
+          Under both the Linux Foundation and Cloud Native Computing Foundation, I made open source contributions to CoreDNS in
+          the form of a plugin.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -90,13 +91,13 @@ content:
         caption: 2018-2022
         sub_title: BSc Computer Science, MSc Technology Management
         quote: >
-          Test
+          No idea
         description: | # this will include new lines to allow paragraphs
 
   - title: More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Test
+      Hoping to really learn frontend once and for all
 
 
 # Footer
